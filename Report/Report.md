@@ -116,6 +116,7 @@ class MainActivity : AppCompatActivity() {
 ```
 
 Далее приведены скриншоты совместной работы 2 приложений:
+
 ![alt text](br_1.png)
 ![alt text](ss_1.png)
 ![alt text](br_2.png)
